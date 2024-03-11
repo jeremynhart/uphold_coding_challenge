@@ -2,7 +2,7 @@
 README.md FILE ************************************************
 
 03/08/2024: 
-Friday March 82024
+Friday March 8, 2024
 
 GO CODING CHALLENGE: 
 
